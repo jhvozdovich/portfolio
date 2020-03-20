@@ -43,12 +43,14 @@ h4 {
   margin-bottom: 2em;
 }
 .picture {
-  width: 70%;
+  width: 90%;
   border: 3px solid #24615B;
   padding: 2%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 
 .profile {

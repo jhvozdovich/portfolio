@@ -1,4 +1,4 @@
-# **Jessica Hvozdovich Portfolio Webpage**
+# **Portfolio Webpage**
 
 ### _Git, HTML, and CSS - Week 1 Project at Epicodus_
 
@@ -7,14 +7,14 @@
 
 ### Description
 
-_The purpose of this webpage is to demonstrate the use of HTML and CSS with Bootstrap formatting. Git and GitHub are also employed for version tracking and sharing._
+_The purpose of this webpage is to demonstrate the use of HTML and CSS with Bootstrap formatting. Git and GitHub are also employed for version tracking and repository sharing._
 
 ### Instructions for use:
 
 1. Clone this repository from GitHub.
 2. Open the downloaded directory in a text editor of your choice.
   (VSCode, Atom, etc.)
-3. Right click and open a live server of the webpage.
+3. Open a live server of the webpage.
 
 _Alternatively_
 * After downloading the file preview the webpage by right clicking and opening index.html in the browser of your choice.
@@ -22,7 +22,7 @@ _Alternatively_
 
 ### Known Bugs
 
-No known bugs at the time of this update.
+No bugs have been identified at the time of this update.
 
 ### Support and Contact Information
 
