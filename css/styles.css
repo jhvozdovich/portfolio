@@ -1,5 +1,4 @@
 /* Color Palette
-Teal #A7FAF1
 Dark Green #24615B
 Light Green #99C7A8
  */
@@ -23,6 +22,10 @@ p {
   text-align: justify;
 }
 
+a {
+  color: #99C7A8;
+}
+
 .panel-title {
   font-size: x-large;
   text-align: center;
@@ -36,6 +39,8 @@ p {
 
 .subheader {
   text-align: center;
+  font-style: italic;
+  color: #24615B;
 }
 
 .subtitle {
@@ -68,12 +73,17 @@ p {
   width: 50%;
   border: 2px solid #24615B;
   padding: 1%;
-  margin: 5%;
+  margin-left: 0%;
+  margin-right: 4%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   float: left;
 }
 
 .picture.small {
   float: right;
+  margin-left: 4%;
+  margin-right: 0%;
 }
 
 .vertical {
