@@ -3,8 +3,13 @@ Dark Green #24615B
 Light Green #99C7A8
  */
 
+/* TEXT */
+
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  background-color: #DEEDE3;
 }
 
 h1 {
@@ -24,6 +29,10 @@ p {
 
 a {
   color: #99C7A8;
+}
+
+ul {
+  padding-left: 25px;
 }
 
 .panel-title {
@@ -52,8 +61,16 @@ a {
   text-align: center;
   font-style: italic;
   margin-top: 0.5em;
-  margin-bottom: 2em;
+  margin-bottom: 1.6em;
 }
+
+.emphasis {
+  color: #24615B;
+  font-weight: bolder;
+}
+
+/* MEDIA */
+
 .picture {
   width: 90%;
   border: 3px solid #24615B;
@@ -69,10 +86,14 @@ a {
   width: 100%;
 }
 
+.loop {
+  padding: 2%;
+  width: 50%;
+  border: 3px solid #24615B;
+}
+
 .small{
   width: 50%;
-  border: 2px solid #24615B;
-  padding: 1%;
   margin-left: 0%;
   margin-right: 4%;
   margin-top: 2%;
@@ -99,7 +120,10 @@ a {
   margin-right: auto;
 }
 
-.emphasis {
-  color: #24615B;
-  font-weight: bolder;
+.panel-default {
+  border-color: #99C7A8;
+}
+
+.well {
+  border-color: #99C7A8;
 }
