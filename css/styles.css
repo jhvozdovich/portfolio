@@ -1,3 +1,15 @@
+/* Color Palette
+Teal #A7FAF1
+Dark Green #24615B
+Light Green #99C7A8
+Dark Pink #CE6B94
+Light Pink #FAD7F7
+ */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 h1 {
-  color: red;
+  color: #24615B;
 }
