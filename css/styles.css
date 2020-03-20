@@ -12,21 +12,30 @@ body {
 
 h1 {
   color: #24615B;
+  text-align: center;
 }
 
 .picture {
   width: 70%;
   border: 3px solid #24615B;
   padding: 2%;
-  margin: 2%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .picture.small {
   width: 50%;
   border: 2px solid #24615B;
   padding: 1%;
-  margin: 1%;
+  margin: 5%;
   float: right;
+}
+
+.video {
+  border: 3px solid #24615B;
+  padding: 2%;
+  margin: 2%;
 }
 
 .emphasis {
