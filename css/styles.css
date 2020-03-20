@@ -13,3 +13,10 @@ body {
 h1 {
   color: #24615B;
 }
+
+.picture {
+  width: 70%;
+  border: 3px solid #24615B;
+  padding: 2%;
+  margin: 2%;
+}
